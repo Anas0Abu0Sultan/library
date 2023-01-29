@@ -1,0 +1,4 @@
+43521,Python for Everyone,Cay Horstman:Rance Necaise,89.5,9,1 
+67534,Exploring Data in Python,Charless Russell,67.3,1,263254,The C Programming Language,Brian Kernighan:Dennis Ritchie,45.6,4,0 
+20014,Learn Python 3 the Hard Way,Zed Shaw,24.9,6,160214,how to lead a winning team,Eddy Knasel:Graham Willcocks:Steve Morris,70.5,4,014741,title,anas,100.0,4,0
+99999,jkjk,kk,400.0,6,0
